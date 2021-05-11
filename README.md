@@ -8,5 +8,5 @@
 ---
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=bunnybunbun37204&show_icons=true&theme=dracula)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bunnybunbun37204&hide=C%23&langs_count=8&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bunnybunbun37204&hide=C%23&langs_count=6&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
 
