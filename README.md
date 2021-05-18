@@ -1,6 +1,9 @@
-# Bunyawat Naunnak
+# Bunyawat Naunnak :computer:
 
-## Connect with me:
+## Myself Information
+My name is Bunyawat Naunnak and you can call me "GAME" I'm M6 high school student from Thailand and I'm beginner of programming :hatching_chick:. Now, I'm learning about JavaScript and wanna be React dev :coffee:. Keep fighting!!! 
+
+## Connect with me :grinning: :
 
 - [Facebook](https://www.facebook.com/bunyawat4263/)
 - [Instragram](https://www.instagram.com/plzcallmegame/)
