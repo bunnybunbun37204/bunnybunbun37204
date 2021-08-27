@@ -11,9 +11,8 @@ My name is Bunyawat Naunnak and you can call me "GAME" I'm M6 high school studen
 ---
 ## Github stats :briefcase: :
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bunnybunbun37204&hide=Jupyter%20Notebook,CSS,Objective-C,HTML,ShaderLab,Shell,HLSL&langs_count=10&theme=tokyonight&layout=compact)](https://github.com/anuraghazra/github-readme-stats) 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bunnybunbun37204&hide=Jupyter%20Notebook,CSS,Objective-C,HTML,ShaderLab,Shell,HLSL&langs_count=10&theme=tokyonight&layout=compact)](https://github.com/anuraghazra/github-readme-stats) ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=bunnybunbun37204&show_icons=true&theme=tokyonight)
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=bunnybunbun37204&show_icons=true&theme=tokyonight)
  
 
 
