@@ -1,7 +1,7 @@
 # Bunyawat Naunnak :computer:
 
 ## Myself Information :hamster: :
-My name is Bunyawat Naunnak and you can call me "GAME" I'm M6 high school student from Thailand and I'm beginner of programming :hatching_chick:. Now, I'm learning about Java, C, C++ and wanna be Android dev :coffee:. Keep fighting!!! 
+My name is Bunyawat Naunnak and you can call me "GAME"
 
 ## Connect with me :grinning: :
 
