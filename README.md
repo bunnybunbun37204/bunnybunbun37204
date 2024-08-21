@@ -19,3 +19,4 @@
 
 
 [![bunnybunbun37204's GitHub | Stats](https://stats.quine.sh/bunnybunbun37204/github?theme=dark)](https://quine.sh?utm_source=widgets&utm_campaign=bunnybunbun37204)
+[![bunnybunbun37204's GitHub | Languages Over Time](https://stats.quira.sh/bunnybunbun37204/languages-over-time?theme=dark)](https://quira.sh?utm_source=widgets&utm_campaign=bunnybunbun37204)
