@@ -9,7 +9,7 @@
 
 - 📫 How to reach me **bunnybunbun37204@gmail.com**
 
-- 📄 Know about my experiences [My Resume/CV](https://drive.google.com/file/d/179Ypa6yXWb1Z_ifbjr0X977wxNCOTIqs/view?usp=sharing)
+- 📄 Know about my experiences [My Resume/CV](https://drive.google.com/file/d/1YpD4ikne3arZaPdU81jcXNd5fLTLIcXo/view?usp=sharing)
 
 - ⚡ Fun fact **I think I'm in love with 🧋.**
 
