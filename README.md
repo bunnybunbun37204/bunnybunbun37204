@@ -9,6 +9,7 @@
 
 - 📫 How to reach me **bunyawatnaunnak@gmail.com**
 
-- 📄 Know about my experiences [My Resume/CV](https://drive.google.com/file/d/1YpD4ikne3arZaPdU81jcXNd5fLTLIcXo/view?usp=sharing)
-
 - ⚡ Fun fact **I think I'm in love with 🧋.**
+
+| <a href="https://github.com/bunnybunbun37204/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=bunnybunbun37204&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="Bunyawat's github stats" /></a> | <a href="https://github.com/bunnybunbun37204/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bunnybunbun37204&layout=compact&theme=buefy&hide_border=true&hide=jupyter%20notebook,html" /></a> |
+| ------------- | ------------- |
