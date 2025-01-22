@@ -1,6 +1,6 @@
 <h1 align="center">Hello👋 , My name is Bunyawat Naunnak🤏</h1>
 <h3 align="left">- A fullstack web developer</h3>
-<h3 align="left">- President of Information System, Science unity studente of Faculty of science for Chulalongkorn University</h3>
+<h3 align="left">- President of Information System 2024, Science Student Union of Faculty of science for Chulalongkorn University</h3>
 <h3 align="left">- 3rd year Computer Science student</h3>
 
 - 🌱 I’m currently learning **Web Development and DevOps**
