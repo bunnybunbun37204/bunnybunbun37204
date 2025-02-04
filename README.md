@@ -67,7 +67,7 @@
 <p align="center">
   <a href="https://github.com/bunnybunbun37204">
     <img height="180em" src="https://github-readme-stats.vercel.app/api?username=bunnybunbun37204&show_icons=true&theme=radical&hide_border=true" />
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bunnybunbun37204&layout=compact&theme=radical&hide_border=true" />
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bunnybunbun37204&hide=jupyter%20notebook&layout=compact&theme=radical&hide_border=true" />
   </a>
 </p>
 
