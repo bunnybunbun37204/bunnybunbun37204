@@ -16,7 +16,7 @@
 ---
 
 ### 🧑💻 About Me
-- 🔭 **President** of Information System 2024 @ Chulalongkorn University
+- 🔭 **President** of Information System Department @ Smovidya Chulalongkorn University
 - 🌱 Currently mastering **Web Dev & DevOps**
 - ⚡ Fun fact: My code runs on 🧋 **COFFEE**!
 - 📫 Reach me: **bunyawatnaunnak@gmail.com**
